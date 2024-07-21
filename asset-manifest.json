@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d66f4fff.css",
+    "main.js": "/static/js/main.ce05642e.js",
+    "static/js/453.afa14d72.chunk.js": "/static/js/453.afa14d72.chunk.js",
+    "static/media/pexels-essow-k-251295-1042143.jpg": "/static/media/pexels-essow-k-251295-1042143.86b09aeb58943e059526.jpg",
+    "static/media/pexels-lastly-699122.jpg": "/static/media/pexels-lastly-699122.2dad8ae4ab0892815db2.jpg",
+    "static/media/nature-3719233_1920.jpg": "/static/media/nature-3719233_1920.c276bd91688f244b9cc7.jpg",
+    "static/media/drop-3698073_1920.jpg": "/static/media/drop-3698073_1920.7437325a96cf5eb81cb4.jpg",
+    "static/media/pexels-jessbaileydesign-788946.jpg": "/static/media/pexels-jessbaileydesign-788946.ee2d0f715a77923836d0.jpg",
+    "static/media/pexels-cottonbro-4065906.jpg": "/static/media/pexels-cottonbro-4065906.ba1745bdf7b80e29468a.jpg",
+    "static/media/fantasy-3077928_1920.jpg": "/static/media/fantasy-3077928_1920.fcf509c8c942c0c4dad3.jpg",
+    "static/media/pngegg.png": "/static/media/pngegg.428d41888f5abfe5bd29.png",
+    "index.html": "/index.html",
+    "main.d66f4fff.css.map": "/static/css/main.d66f4fff.css.map",
+    "main.ce05642e.js.map": "/static/js/main.ce05642e.js.map",
+    "453.afa14d72.chunk.js.map": "/static/js/453.afa14d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66f4fff.css",
+    "static/js/main.ce05642e.js"
+  ]
+}
